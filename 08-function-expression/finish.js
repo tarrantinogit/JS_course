@@ -10,3 +10,13 @@
  *
  * 5. Результат вызовов функции выведите в консоль
  */
+
+
+let myFunction = function (name) {
+	console.log('Hello' + ' ' +  name + '.')
+}
+
+console.log(myFunction('Alexandr'));
+console.log(myFunction('Bohdan'));
+
+

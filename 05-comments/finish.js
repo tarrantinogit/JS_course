@@ -7,3 +7,15 @@
  *
  * 3. Создайте многострочный комментарий
  */
+
+
+// its single line comment
+
+const persone = {
+	name: 'Alexandr',
+	surname: 'Khristenko'
+} //   its object variable
+
+/*
+its semicolon comment
+ */

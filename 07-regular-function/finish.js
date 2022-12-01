@@ -8,3 +8,10 @@
  *
  * 4. Вызовите функцию
  */
+
+
+function logString() {
+	console.log('Alexandr');
+}
+
+logString();
